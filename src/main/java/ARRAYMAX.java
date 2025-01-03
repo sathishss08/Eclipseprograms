@@ -7,7 +7,7 @@ public class ARRAYMAX {
 		
 		int a [] = {2,6,4,1,38};
 		
-		int max = a[0];
+		int max = 0;
 		
 		
 		for(int i=0 ;i<a.length;i++)
